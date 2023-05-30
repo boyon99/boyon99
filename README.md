@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api?username=boyon99&show_icons=true&hide_title=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=boyon99&show_icons=true&hide_title=true" width="700px" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=boyon99&show_icons=true&hide_title=true" width="700px"/>
 </picture>
 
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=boyon99&layout=compact&hide_title=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyon99&layout=compact&hide_title=true" width="700px" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyon99&layout=compact&hide_title=true" width="700px"/>
 </picture>
 
