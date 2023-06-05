@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 boyon's github stats
+### 🌱 Boyon's github stats
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=boyon99&show_icons=true&theme=cobalt&hide_title=true"
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </picture>
 
 
-### 🌱 boyon's most used language
+### 🌱 Boyon's most used language
 
 <picture>
 <source
@@ -44,3 +44,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyon99&layout=compact&hide_title=true" width="700px"/>
 </picture>
 
+
+### 🤔 About Me
+
+<a href="https://velog.io/@boyon99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> &nbsp; 
+<a href="https://github.com/boyon99"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; 
+<a href="https://github.com/boyon99"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> &nbsp; 
